@@ -1,0 +1,5 @@
+{
+  "version": 1,
+  "description": "Master manifest placeholder. Populated by scripts/build_dataset.py.",
+  "samples": []
+}

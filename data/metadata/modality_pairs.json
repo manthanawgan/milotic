@@ -1,0 +1,5 @@
+{
+  "version": 1,
+  "description": "Movement-to-modality pairing placeholder. Populated by the pipeline.",
+  "pairs": []
+}
